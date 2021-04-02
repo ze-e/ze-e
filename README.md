@@ -9,6 +9,6 @@
 - ⚡ I teach programming by creating fun games and animations
  
 ### Connect with me:
-[![linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg "linkedin logo")](https://www.linkedin.com/in/zachary-rex-rodriguez-0aa43723/)
+[![linkedin](./linkedin.svg "linkedin logo")](https://www.linkedin.com/in/zachary-rex-rodriguez-0aa43723/)
 
-[![email](https://fonts.google.com/icons?selected=Material%20Icons%3Acontact_mail "email logo")](mailto:zrexrodriguez@gmail.com)
+[![email](./baseline_contact_mail_black_24dp.png "email logo")](mailto:zrexrodriguez@gmail.com)
