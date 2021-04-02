@@ -10,9 +10,4 @@
  
 ### Connect with me:
 <a href="https://www.linkedin.com/in/zachary-rex-rodriguez-0aa43723/"><img style="width:24px;" src="./linkedin.svg"/></a>
-<a href="mailto:zrexrodriguez@gmail.com"><img src="./baseline_contact_mail_black_24dp.png"/></a>
-
-
-[![linkedin](./linkedin.svg "linkedin logo")](https://www.linkedin.com/in/zachary-rex-rodriguez-0aa43723/)
-
-[![email](./baseline_contact_mail_black_24dp.png "email logo")](mailto:zrexrodriguez@gmail.com)
+<a href="mailto:zrexrodriguez@gmail.com"><img style="width:24px;" src="./baseline_contact_mail_black_24dp.png"/></a>
