@@ -3,7 +3,8 @@
 ### Here's a little about me
 
 - 🔭 I’m a fullstack web developer using the MERN stack
-- 🌱 I love JavaScript and Python
+- 🌱 I love JavaScript, Python and C#
+- 🎮 I'm learning Unity, XR and Game Development
 - 👯 I love creative projects and solving problems using code
 - 🥅 Available for fullstack web development for your website or web application
 - ⚡ I teach programming by creating fun games and animations
