@@ -13,8 +13,6 @@
 <a href="https://pledgellama.com/">PledgeLlama</a>
 
 <a href="https://ze-e.github.io/dev_finder/">DevFinder</a>
-
-Repo: <a href="https://github.com/ze-e/dev_finder">Here</a>
  
 ### Connect with me:
 
