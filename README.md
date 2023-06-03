@@ -14,6 +14,11 @@
 
 <a href="https://ze-e.github.io/dev_finder/">DevFinder</a>
  
+### Check out my code pen:
+https://codepen.io/ze-e/pen/pogYeax
+https://codepen.io/ze-e/pen/KKNybXq
+https://codepen.io/ze-e/pen/XWrBPaY
+ 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/zachary-rex-rodriguez-0aa43723/"><img width=24 src="./linkedin-box-fill.svg"/></a>
