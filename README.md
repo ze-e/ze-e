@@ -11,10 +11,12 @@
 
 ### Check out some of my latest projects:
 <a href="https://pledgellama.com/">PledgeLlama</a>
+
 Production app
 
 <a href="https://ze-e.github.io/dev_finder/">DevFinder</a>
-Quick 1-day project)
+
+Quick 1-day project
  
 ### Check out my code pen:
 https://codepen.io/ze-e/pen/pogYeax
