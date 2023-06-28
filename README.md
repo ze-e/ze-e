@@ -10,6 +10,8 @@
 - ⚡ I teach programming by creating fun games and animations
 
 ### Check out some of my latest projects:
+
+
 <a href="https://pledgellama.com/">PledgeLlama</a>
 
 (Production app)
@@ -18,7 +20,11 @@
 
 (Quick 1-day project)
 
-<a href="https://zrex-web-dev.com/">Portfolior</a>
+<a href="https://the-leaderboard.net/">The Leaderboard</a>
+
+Are you the greatest there is? Prove it. Add your name to the official The Leaderboard
+
+<a href="https://zrex-web-dev.com/">Portfolio</a>
 
 (New Portfolio - In Progress)
 
