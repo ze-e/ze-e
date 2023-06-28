@@ -28,9 +28,6 @@ Are you the greatest there is? Prove it. Add your name to the official The Leade
 
 (New Portfolio - In Progress)
 
-<a href="https://github.com/ze-e/skill-grid">Skill Grid (repo)</a>
-
-(Gamified teacher management software - In Progress)
  
 ### Check out my code pen:
 https://codepen.io/ze-e/pen/pogYeax
