@@ -17,6 +17,14 @@
 <a href="https://ze-e.github.io/dev_finder/">DevFinder</a>
 
 (Quick 1-day project)
+
+<a href="https://zrex-web-dev.com/">Portfolior</a>
+
+(New Portfolio - In Progress)
+
+<a href="https://github.com/ze-e/skill-grid">Skill Grid (repo)</a>
+
+(Gamified teacher management software - In Progress)
  
 ### Check out my code pen:
 https://codepen.io/ze-e/pen/pogYeax
