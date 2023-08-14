@@ -28,7 +28,7 @@ Are you the greatest there is? Prove it. Add your name to the official The Leade
 
 (New Portfolio - In Progress)
 
-<a href="https://github.com/ze-e/skill-grid">CodeQuest</a>
+<a href="[https://github.com/ze-e/skill-grid](https://netlify--dazzling-clafoutis-dadfc1.netlify.app/)">CodeQuest</a>
 
 (Gamified Teaacher Management Software - In Progress) (Repo)
 
