@@ -30,7 +30,7 @@ Are you the greatest there is? Prove it. Add your name to the official The Leade
 
 <a href="https://netlify--dazzling-clafoutis-dadfc1.netlify.app/">CodeQuest</a>
 
-(Gamified Teaacher Management Software - In Progress) (Repo)
+(Gamified Teaacher Management Software - In Progress)
 
  
 ### Check out my code pen:
